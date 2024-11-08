@@ -1,0 +1,1 @@
+python src/ray_relation_extractor.py
